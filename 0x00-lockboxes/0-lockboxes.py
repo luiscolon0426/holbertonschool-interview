@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+''' comment '''
+
+
 def canUnlockAll(boxes):
     """ This method checks if all boxes in a list can be unlocked """
     keyset = [0]
